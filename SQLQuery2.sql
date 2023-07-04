@@ -57,3 +57,5 @@ CREATE TABLE Movimento_Venda(
   idProduto INT FOREIGN KEY REFERENCES Produto(idProduto),
   
 );
+
+
